@@ -35,3 +35,4 @@ def get_book_text(path: str):
                 number = char["num"]
                 print(f"{character}: {number}")
         print("============= END ===============")
+        return None
